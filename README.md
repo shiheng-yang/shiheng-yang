@@ -10,8 +10,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=shiheng-yang&show_icons=true&theme=transparent)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shiheng-yang&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-
 
 ![Visitor Count](https://profile-counter.glitch.me/shiheng-yang/count.svg)
 
